@@ -2,6 +2,8 @@
 
 Evoke is the simple solution to the complicated problem of build software for C++ and related languages.
 
+> [CppCon 2018: “Build Systems: a Simple Solution to a Complicated Problem”](https://youtu.be/mWOmkwv8N_U)
+
 # Building/installing
 
 Right now it is not available as a package for common operating systems yet. To install it, you will need to compile it from source.
