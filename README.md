@@ -1,8 +1,6 @@
 # Evoke
 
-Evoke is the simple solution to the complicated problem of build software for C++ and related languages.
-
-> [CppCon 2018: “Build Systems: a Simple Solution to a Complicated Problem”](https://youtu.be/mWOmkwv8N_U)
+Evoke is the [simple solution to the complicated problem](https://youtu.be/mWOmkwv8N_U) of build software for C++ and related languages.
 
 # Building/installing
 
